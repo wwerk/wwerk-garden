@@ -2,5 +2,6 @@
 {"dg-publish":true,"permalink":"/garden/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-# WITAM
-Siemano.
+# WITAM W MYM OGRÓDKU
+Ta?
+To fajnie.
