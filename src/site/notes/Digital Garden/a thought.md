@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/a-thought/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/digital-garden/a-thought/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 thought
