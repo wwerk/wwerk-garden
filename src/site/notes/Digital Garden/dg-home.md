@@ -4,4 +4,5 @@
 
 from one to any other
 
-here's [[Digital Garden/a thought|a thought]] for exampl
+here's [[Digital Garden/a thought|a thought]] for example
+and here's [[Digital Garden/another|another]]
