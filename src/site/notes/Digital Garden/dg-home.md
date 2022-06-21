@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/dg-home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/digital-garden/dg-home/","tags":"gardenEntry","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 from one to any other
