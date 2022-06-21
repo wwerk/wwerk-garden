@@ -6,3 +6,5 @@ thought
 
 I have been advised
 to chew carefully
+
+for [[Digital Garden/dg-home|one]]
