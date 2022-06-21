@@ -7,4 +7,4 @@ thought
 I have been advised
 to chew carefully
 
-for [[Digital Garden/dg-home|one]], eh?
+for [[Digital Garden/dg-home|one]] -> eh?
