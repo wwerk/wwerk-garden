@@ -7,4 +7,4 @@ thought
 I have been advised
 to chew carefully
 
- [[Digital Garden/dg-home|eh]]
+ [[Digital Garden/netpoesis|then my physiology might just stay as it were]]
